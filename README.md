@@ -1,11 +1,11 @@
-### Hi there 👋
-Here are some ideas to get you started:
+### Oi! Eu sou a Mari 👋
 
-- 🔭 I’m currently working on codes, HTML and AIML
-- 🌱 I’m currently learning to program
-- 👯 I’m looking to collaborate on codes
-- 🤔 I’m looking for help with codes
-- 💬 Ask me about AIML
+
+
+- 🌱 Amo a natureza
+- 👯 Gosto de estar com meus amigos
+- 💪🏻 Viciada em treinar
+- 🌞 Gosto de dias ensolarados
 - 📫 How to reach me: @mari.georg
 -->
 <!--
